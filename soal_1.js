@@ -1,22 +1,3 @@
-// console.log("Hello World")
-
-// Function untuk menentukan kategori usia
-// function getKategoriUsia(usia) {
-//     let categoryUsia;
-//     if (usia >= 0 && usia <= 12) {
-//         categoryUsia = "Anak"
-//     } else if (usia >= 13 && usia <= 17) {
-//         categoryUsia = "Remaja";
-//     } else if (usia >= 18 && usia <= 59) {
-//         categoryUsia = "Dewasa";
-//     } else if (usia >= 60) {
-//         categoryUsia = "Lansia";
-//     }
-//     console.log(categoryUsia)
-//     return
-//   } 
-//   getKategoriUsia(32);
-
 const prompt = require("prompt-sync")();
 
   // Function untuk menentukan kategori usia
